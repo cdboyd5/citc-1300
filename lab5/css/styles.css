@@ -45,7 +45,7 @@ nav li a {
     font-size: 1.2em;
     border-radius: 10px;
 }
-nav, section, aside, .col, footer {
+nav, footer {
     background-color: #70BF4B;
     padding: 20px;
     margin: 10px;

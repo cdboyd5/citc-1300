@@ -1,0 +1,89 @@
+/*golbal styles*/
+body{
+    display: block;
+    background-color: rgb(151, 0, 0);
+}
+
+#container{
+display: block;
+margin: 5px;
+}
+header{
+    display: block;
+    padding: 5px 0;
+    background-color: rgb(141, 56, 141);
+    border: 5px solid gold;
+    
+}
+header img{
+    display: block;
+    max-width: 95%;
+    margin: o auto;
+    width: 200%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid white;
+}
+header h1{
+    text-align: center;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+nav li{
+    display: block;
+}
+nav li a{
+    display: block;
+    background-color: gold;
+    color: purple;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 10px 0;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 10px;
+}
+nav, footer{
+    display: block;
+    background-color: rgb(141, 56, 141);
+    padding: 5px;
+    margin: 5px;
+    border: 5px solid gold;
+}
+nav li a:hover, .button:hover{
+    border: 2px solid royalblue;
+    background-color: gold;
+    color: royalblue;
+}
+main{
+    background-color: rgb(141, 56, 141);
+    border: 5px solid gold;
+    margin: o 20px 20px 20px;
+}
+h2{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    font-size: 1.2em;
+    text-shadow: 1px 1px 1px red;
+    color: gold;
+}
+
+a{
+    display: block;
+    background-color: gold;
+    color: purple;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 10px 0;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 10px;
+}
+
